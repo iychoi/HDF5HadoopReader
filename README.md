@@ -26,5 +26,5 @@ All dependencies for this project are already in /libs/ directory.
 References
 ----------
 
-- Many HDF5 related source files are copied from NETCDF4 source code. (http://www.unidata.ucar.edu)[http://www.unidata.ucar.edu]
-- FrequencyCount example is originally written by MATTHEW ADAM JUSTICE. (http://www.cs.arizona.edu/news/honors/JusticeMatt_HonorsThesis_SP12_Final.pdf)[http://www.cs.arizona.edu/news/honors/JusticeMatt_HonorsThesis_SP12_Final.pdf]
+- Many HDF5 related source files are copied from NETCDF4 source code. [Link](http://www.unidata.ucar.edu)
+- FrequencyCount example is originally written by MATTHEW ADAM JUSTICE. [Link](http://www.cs.arizona.edu/news/honors/JusticeMatt_HonorsThesis_SP12_Final.pdf)
